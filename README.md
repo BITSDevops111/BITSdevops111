@@ -21,6 +21,4 @@ Here are some ideas to get you started:
 // README.md
 //used layout as compact -->
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=BITSdevops111&layout=compact)
-
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=BITSdevops111&repo=ss_assg_billing&show_owner=true)](https://github.com/BITSDevops111/ss_assg_billing)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=BITSdevops111&layout=compact)      [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=BITSdevops111&repo=ss_assg_billing&show_owner=true)](https://github.com/BITSDevops111/ss_assg_billing)
