@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=BITSdevops111&theme=Gradient&show_icons=true&count_private=true)
-
+<!--
 
 // README.md
-//used layout as compact 
+//used layout as compact -->
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=BITSdevops111&layout=compact)
 
