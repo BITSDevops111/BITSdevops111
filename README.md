@@ -7,7 +7,8 @@
 - 👯 I’m looking to collaborate on cybersecurity projects
 - 📫 How to reach me: himanshu.chaurishiya@gmail.com 
 
-
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/re01021992)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/himanshu-chaurishiya-🇮🇳-965b9a126)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=BITSdevops111&theme=Gradient&show_icons=true&count_private=true)
 <!--
