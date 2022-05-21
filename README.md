@@ -38,7 +38,7 @@
 <a href="https://auth.geeksforgeeks.org/user/bitsdevops111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bitsdevops111" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/bitsdevops111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="bitsdevops111" height="30" width="40" /></a>
 <a href="https://discord.gg/bitsdevops111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bitsdevops111" height="30" width="40" /></a>
-<a href="/bitsdevops111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="bitsdevops111" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="bitsdevops111" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
