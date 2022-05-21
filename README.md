@@ -57,5 +57,5 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/2020mt9363l"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/2020mt9363l" /></a></p><br><br>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BEF7CE&multiline=true&width=300&height=300&lines=Hi+!+Visitor++I+am+Himanshu+Chaurishiya+%F0%9F%98%8A;Let's+get+connected+through+my+email+id+%F0%9F%A4%9D%F0%9F%8F%BB;%F0%9F%93%A7+%3A+himanshu.chaurishiya%40gmail.com+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BEF7CE&multiline=true&width=500&height=200&lines=Hi+!+Visitor++I+am+Himanshu+Chaurishiya+%F0%9F%98%8A;Let's+get+connected+through+my+email+id+%F0%9F%A4%9D%F0%9F%8F%BB;%F0%9F%93%A7+%3A+himanshu.chaurishiya%40gmail.com+)](https://git.io/typing-svg)
 
