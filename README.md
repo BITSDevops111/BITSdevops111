@@ -6,7 +6,10 @@
 - 🌱 I’m currently learning ML in malware analysis
 - 👯 I’m looking to collaborate on cybersecurity projects
 - 📫 How to reach me: himanshu.chaurishiya@gmail.com 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BEF7CE&multiline=true&width=399&lines=Hi+!+Visitor++I+am+Himanshu+Chaurishiya+;Let's+get+connected+through+my+email+id+;himanshu.chaurishiya%40gmail.com)](https://git.io/typing-svg)
+
+
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/re01021992)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/himanshu-chaurishiya-🇮🇳-965b9a126)
 
