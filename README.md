@@ -2,14 +2,12 @@
 
 
 
-<h1 align="center">Hi 👋, I'm I'm Himanshu Chaurishiya</h1>
+<h1 align="center">Hi 👋, I'm  Himanshu Chaurishiya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bitsdevops111&label=Profile%20views&color=0e75b6&style=flat" alt="bitsdevops111" /> </p>
 <h2 align="center">Visit my skyline https://skyline.github.com/BITSDevops111/2022</h2>
 <h3 align="center">Reverse Engineer | Malware Analyst | Cyber Threat Intelligence | SOC Specialist -Lead Analyst | Cyber AI/ML | Software Engineer</h3>
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/re01021992)
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/himanshu-chaurishiya-🇮🇳-965b9a126)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/re01021992)[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/himanshu-chaurishiya-🇮🇳-965b9a126)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bitsdevops111" alt="bitsdevops111" /></a> </p>
