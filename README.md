@@ -56,11 +56,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/2020mt9363l"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/2020mt9363l" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bitsdevops111&show_icons=true&locale=en&layout=compact" alt="bitsdevops111" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bitsdevops111&show_icons=true&locale=en" alt="bitsdevops111" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bitsdevops111&" alt="bitsdevops111" /></p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BEF7CE&multiline=true&width=500&height=300&lines=Hi+!+Visitor++I+am+Himanshu+Chaurishiya+%F0%9F%98%8A;Let's+get+connected+through+my+email+id+%F0%9F%A4%9D%F0%9F%8F%BB;%F0%9F%93%A7+%3A+himanshu.chaurishiya%40gmail.com+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BEF7CE&multiline=true&width=300&height=300&lines=Hi+!+Visitor++I+am+Himanshu+Chaurishiya+%F0%9F%98%8A;Let's+get+connected+through+my+email+id+%F0%9F%A4%9D%F0%9F%8F%BB;%F0%9F%93%A7+%3A+himanshu.chaurishiya%40gmail.com+)](https://git.io/typing-svg)
 
