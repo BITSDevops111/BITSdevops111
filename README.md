@@ -5,13 +5,6 @@
 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=BITSdevops111&theme=Gradient&show_icons=true&count_private=true)
-<!--
-
-// README.md
-//used layout as compact https://github.com/anuraghazra/github-readme-stats for more info -->
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=BITSdevops111&layout=compact)      [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=BITSdevops111&repo=ss_assg_billing&show_owner=true)](https://github.com/BITSDevops111/ss_assg_billing)
 
 
 <h1 align="center">Hi 👋, I'm Himanshu Chaurishiya</h1>
@@ -64,8 +57,12 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/2020mt9363l"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="2020mt9363l" /></a></p><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supr3me-code&show_icons=true&locale=en&layout=compact" alt="supr3me-code" /></p><br><br><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BITSdevops111&show_icons=true&locale=en&layout=compact" alt="BITSdevops111" /></p><br><br><br><br><br><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supr3me-code&show_icons=true&locale=en" alt="supr3me-code" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BITSdevops111&show_icons=true&locale=en" alt="BITSdevops111" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supr3me-code&" alt="supr3me-code" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BITSdevops111&" alt="BITSdevops111" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BITSdevops111&repo=ss_assg_billing&show_owner=true" alt="BITSdevops111" /></p>
+
+
+
