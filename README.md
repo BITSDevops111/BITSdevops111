@@ -44,7 +44,6 @@
 
 ---
 
-![line](https://cdn.discordapp.com/attachments/842741907720896512/842806312386428948/gif.gif)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/bitsdevops111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bitsdevops111" height="30" width="40" /></a>
@@ -80,13 +79,13 @@
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bitsdevops111&show_icons=true&locale=en&layout=compact" alt="bitsdevops111" /></p>
 <br>
-</div>
 
-<div align="center">
+
+
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=bitsdevops111&show_icons=true&locale=en" alt="bitsdevops111" /></p>
 <br>
-  </div>
-<div align="center">
+
+
 <br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bitsdevops111&" alt="bitsdevops111" /></p>
 <br>
