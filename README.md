@@ -6,7 +6,6 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
-<h2 align="center">Visit my skyline https://skyline.github.com/BITSDevops111/2022</h2>
 <h3 align="center">Reverse Engineer | Malware Analyst | Cyber Threat Intelligence | SOC Specialist -Lead Analyst | Cyber AI/ML | Software Engineer</h3>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
