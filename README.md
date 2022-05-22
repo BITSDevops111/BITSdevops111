@@ -107,7 +107,6 @@
       <br />
       <a href="</a>
     </td>
- 
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
