@@ -43,6 +43,10 @@
 <br>
 
 ---
+## 🎧 Spotify Playing
+
+[<img src="https://now-playing-alfreddagenais.vercel.app/api/spotify-playing" alt="Alfred Dagenais Spotify Playing" width="350" />](https://open.spotify.com/user/223z2erxpsvvicijn6b4h46uy)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
