@@ -107,22 +107,7 @@
       <br />
       <a href="</a>
     </td>
-    <td align="center">
-      <a href="">
-        <img src="" width="100px;" alt="Zorono"/>
-      </a>
-      <br />
-      <a href="">[BR]</a>
-    </td>
-    <td align="center">
-      <a href="">
-        <img src="" width="100px;" alt="marioarl"/>
-      </a>
-      <br />
-      <a href=""></a>
-    </td>
-  </tr>
-  <tr>
+ 
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
