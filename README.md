@@ -27,6 +27,12 @@
 
 ![line](https://cdn.discordapp.com/attachments/842741907720896512/842806312386428948/gif.gif)
 
+<br>
+
+---
+
+<div align="center">
+
 ## 🤹 My Skill Set
 
 <br>
@@ -39,6 +45,8 @@
 </div>
 
 <br>
+
+---
 
 ![line](https://cdn.discordapp.com/attachments/842741907720896512/842806312386428948/gif.gif)
 <h3 align="left">Connect with me:</h3>
