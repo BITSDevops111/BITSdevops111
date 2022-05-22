@@ -2,7 +2,9 @@
 
 
 
-<h1 align="center">Hi 👋, I'm  Himanshu Chaurishiya</h1>
+<h1 align="center">Hi 👋, I'm  Himanshu Chaurishiya</h1>      [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BEF7CE&multiline=true&width=500&height=200&lines=Hi+!+Visitor++I+am+Himanshu+Chaurishiya+%F0%9F%98%8A;Let's+get+connected+through+my+email+id+%F0%9F%A4%9D%F0%9F%8F%BB;%F0%9F%93%A7+%3A+himanshu.chaurishiya%40gmail.com+)](https://git.io/typing-svg)
+
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bitsdevops111&label=Profile%20views&color=0e75b6&style=flat" alt="bitsdevops111" /> </p>
 <h2 align="center">Visit my skyline https://skyline.github.com/BITSDevops111/2022</h2>
@@ -81,7 +83,7 @@
 <p><a href="https://www.buymeacoffee.com/2020mt9363l"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/2020mt9363l" /></a></p><br><br>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BEF7CE&multiline=true&width=500&height=200&lines=Hi+!+Visitor++I+am+Himanshu+Chaurishiya+%F0%9F%98%8A;Let's+get+connected+through+my+email+id+%F0%9F%A4%9D%F0%9F%8F%BB;%F0%9F%93%A7+%3A+himanshu.chaurishiya%40gmail.com+)](https://git.io/typing-svg)
+
 
 ![](https://hit.yhype.me/github/profile?user_id=81251470)
 
