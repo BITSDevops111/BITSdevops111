@@ -78,15 +78,14 @@
 
 ---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bitsdevops111&show_icons=true&locale=en&layout=compact" alt="bitsdevops111" /></p>
-
+<br>
 ---
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=bitsdevops111&show_icons=true&locale=en" alt="bitsdevops111" /></p>
-
+<br>
 ---
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bitsdevops111&" alt="bitsdevops111" /></p>
-
-
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bitsdevops111&" alt="bitsdevops111" /></p>
+<br>
 
 
 <h3 align="left">Support:</h3>
