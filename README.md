@@ -73,20 +73,24 @@
 
 
 
-
-
-
 ---
+
+
+<div align="center">
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bitsdevops111&show_icons=true&locale=en&layout=compact" alt="bitsdevops111" /></p>
 <br>
----
+</div>
+
+<div align="center">
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=bitsdevops111&show_icons=true&locale=en" alt="bitsdevops111" /></p>
 <br>
----
+  </div>
+<div align="center">
 <br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bitsdevops111&" alt="bitsdevops111" /></p>
 <br>
-
+</div>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/2020mt9363l"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/2020mt9363l" /></a></p><br><br>
