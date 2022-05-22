@@ -67,49 +67,7 @@
 
 
 
-## ✨ My Followers
 
-<!--START_SECTION:top-followers-->
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/UsmanAfzal8">
-        <img src="https://avatars.githubusercontent.com/u/56322052?v=4" width="100px;" alt="Usman Afzal"/>
-      </a>
-      <br />
-      <a href="https://github.com/UsmanAfzal8">Usman Afzal</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/">
-        <img src="" width="100px;" alt=""/>
-      </a>
-      <br />
-      <a href=""></a>
-    </td>
-    <td align="center">
-      <a href="">
-        <img src="" width="100px;" alt=""/>
-      </a>
-      <br />
-      <a href=""></a>
-    </td>
-    <td align="center">
-      <a href="">
-        <img src="" width="100px;" alt=""/>
-      </a>
-      <br />
-      <a href=""></a>
-    </td>
-    <td align="center">
-      <a href="">
-        <img src="" width="100px;" alt=""/>
-      </a>
-      <br />
-      <a href="</a>
-    </td>
-  </tr>
-</table>
-<!--END_SECTION:top-followers-->
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bitsdevops111&show_icons=true&locale=en&layout=compact" alt="bitsdevops111" /></p>
