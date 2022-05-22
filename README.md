@@ -1,14 +1,10 @@
-
-
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bitsdevops111&label=Profile%20views&color=0e75b6&style=flat" alt="bitsdevops111" /> </p>
 <h1 align="left">Hi 👋, I'm  Himanshu Chaurishiya</h1>      
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BEF7CE&multiline=true&width=500&height=80&lines=Hi+!+Visitor++I+am+Himanshu+Chaurishiya+%F0%9F%98%8A;Let's+get+connected+through+my+email+id+%F0%9F%A4%9D%F0%9F%8F%BB;%F0%9F%93%A7+%3A+himanshu.chaurishiya%40gmail.com+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BEF7CE&multiline=true&width=500&height=70&lines=Hi+!+Visitor++I+am+Himanshu+Chaurishiya+%F0%9F%98%8A;Let's+get+connected+through+my+email+id+%F0%9F%A4%9D%F0%9F%8F%BB;%F0%9F%93%A7+%3A+himanshu.chaurishiya%40gmail.com+)](https://git.io/typing-svg)
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bitsdevops111&label=Profile%20views&color=0e75b6&style=flat" alt="bitsdevops111" /> </p>
+
 <h2 align="center">Visit my skyline https://skyline.github.com/BITSDevops111/2022</h2>
 <h3 align="center">Reverse Engineer | Malware Analyst | Cyber Threat Intelligence | SOC Specialist -Lead Analyst | Cyber AI/ML | Software Engineer</h3>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
