@@ -8,7 +8,7 @@
 <br>
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1000px">
-<h3 align="center">Reverse Engineer | Malware Analyst | Cyber Threat Intelligence | SOC Specialist -Lead Analyst | Cyber AI/ML | Software Engineer</h3>
+<h3 align="center">DevSecops|Reverse Engineer | Malware Analyst | Cyber Threat Intelligence | SOC Specialist -Lead Analyst | Cyber AI/ML | Software Engineer</h3>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1000px">
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/re01021992)[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/himanshu-chaurishiya-🇮🇳-965b9a126)
